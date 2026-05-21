@@ -1,12 +1,5 @@
 <h1 align="left ">Hi there, I'm Sazzad Hossain</h1>
-<h3 align="left">Frontend Developer | Aspiring WordPress Plugin & Theme Developer</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sazzadhossainmit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-
-## About Me
+<h2 align="left">Frontend Developer | Aspiring WordPress Plugin & Theme Developer</h2>
 
 I have been building powerful and dynamic WordPress websites with modern tools
 and custom functionalities for the past 4 years. During this journey, I actively
@@ -36,35 +29,40 @@ other PHP and JavaScript frameworks.
 - Modern WordPress Architecture
 ```
 
----
+
+
+## Builders & Tools that I use mostly
+
+Elementor, Divi Builder, WPBakery, Bricks Builder, JetEngine, ACF (Advanced Custom Fields), WooCommerce, Crocoblock, Custom PHP/JS Features
+
 
 ## Tech Stack & Skills
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+<p> 
+  <img src="https://skillicons.dev/icons?i=html,css,php,jquery,js,wordpress,mysql,git,github,vscode,figma" />
 </p>
 
-### Backend & CMS
+
+## Connect With Me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,wordpress" />
+  <a href="https://linkedin.com/in/sazzadhossainmit" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="https://www.instagram.com/sazzadhossainmit" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
+  <a href="https://x.com/devsazzad" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  
+  <a href="mailto:sazzadhossainmit@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
-### Builders & Tools that I use mostly
-
-- Elementor
-- Divi Builder
-- WPBakery
-- Bricks Builder
-- JetEngine
-- ACF (Advanced Custom Fields)
-- WooCommerce
-- Crocoblock
-- Custom PHP/JS Features
-
----
 
 ## GitHub Stats
 
@@ -79,20 +77,5 @@ other PHP and JavaScript frameworks.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadhossainmit&theme=tokyonight" alt="streak stats" />
 </p>
 
----
 
-## Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/sazzadhossainmit" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="mailto:sazzadhossainmit@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  
-  <a href="https://github.com/sazzadhossainmit" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
