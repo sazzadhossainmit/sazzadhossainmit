@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Sazzad Hossain</h1>
-<h3 align="center">Frontend Developer | Aspiring WordPress Plugin & Theme Developer</h3>
+<h1 align="left ">Hi there, I'm Sazzad Hossain</h1>
+<h3 align="left">Frontend Developer | Aspiring WordPress Plugin & Theme Developer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sazzadhossainmit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -70,7 +70,10 @@ other PHP and JavaScript frameworks.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazzadhossainmit&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sazzadhossainmit&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
