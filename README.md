@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sazzadhossainmit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
 
 ## About Me
 
@@ -85,15 +84,15 @@ other PHP and JavaScript frameworks.
 ## Connect With Me
 
 <p>
-  <a href="https://github.com/sazzadhossainmit" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
   <a href="https://linkedin.com/in/sazzadhossainmit" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-<a href="mailto:sazzadhossainmit@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  
+  <a href="mailto:sazzadhossainmit@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  
+  <a href="https://github.com/sazzadhossainmit" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
