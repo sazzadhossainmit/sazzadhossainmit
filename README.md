@@ -39,7 +39,7 @@ Elementor, Divi Builder, WPBakery, Bricks Builder, JetEngine, ACF (Advanced Cust
 ## Tech Stack & Skills
 
 <p> 
-  <img src="https://skillicons.dev/icons?i=html,css,php,jquery,js,wordpress,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,jquery,js,wordpress,mysql" />
 </p>
 
 
